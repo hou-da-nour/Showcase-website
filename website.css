@@ -106,7 +106,6 @@ body{
 .landing .text p{
     font-size: 1rem;
     line-height: 1.8;
-    font-family: cursive;
     color: #1B263B;
     font-weight: bold;
 }
@@ -123,12 +122,12 @@ body{
     font-weight: bold;
     font-size: 3rem;
     color: #415A77;
-    font-family: cursive;
+    
 }  
 .about .container p{
     font-size: 1rem;
     line-height: 1.8;
-    font-family: cursive;
+    
     color: #415A77;
     font-weight: bold;
 }
@@ -139,7 +138,7 @@ body{
     font-weight: bold;
     font-size: 3rem;
     color: #415A77;
-    font-family: cursive;
+    
 }  
 .icon{
     display: flex;
